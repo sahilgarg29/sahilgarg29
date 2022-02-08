@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Garg</h1>
 <h3 align="center">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumerfacing applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgarg29&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgarg29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilgarg29" alt="sahilgarg29" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sahilgarg2907" target="blank"><img src="https://img.shields.io/twitter/follow/sahilgarg2907?logo=twitter&style=for-the-badge" alt="sahilgarg2907" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [sahilgarg.me](sahilgarg.me)
 
