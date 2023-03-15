@@ -2,7 +2,7 @@
 <h3 align="center">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumerfacing applications.</h3>
 
 
-- 👨‍💻 All of my projects are available at [sahilgarg.me](sahilgarg.me)
+- 👨‍💻 All of my projects are available at [sahilgarg Protfolio](https://sahil-garg-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Redux, NodeJS, ExpressJS, MongoDB, SQL**
 
